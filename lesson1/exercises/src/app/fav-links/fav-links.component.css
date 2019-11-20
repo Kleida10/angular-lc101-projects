@@ -1,0 +1,11 @@
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    color: limegreen;
+}
+
+a {
+    display: block;
+    text-align: center;
+}
+
